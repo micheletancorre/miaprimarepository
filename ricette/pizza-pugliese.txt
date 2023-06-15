@@ -3,3 +3,5 @@ stracciatella
 pomodorino
 origano
 olio
+salsiccia
+patatine
