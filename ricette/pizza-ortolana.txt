@@ -1,2 +1,4 @@
 peperoni
 zucchine
+mozzarella
+olio
