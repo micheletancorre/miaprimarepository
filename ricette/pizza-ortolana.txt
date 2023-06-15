@@ -2,3 +2,5 @@ peperoni
 zucchine
 mozzarella
 olio
+origano
+patatine
