@@ -5,3 +5,4 @@ pizza calabrese
 pizza piemontese
 pizza sarda
 pizza molisana
+pizza toscana
