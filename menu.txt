@@ -2,3 +2,4 @@ pizza margherita
 pizza ortolana
 pizza diavola
 pizza calabrese
+pizza piemontese
