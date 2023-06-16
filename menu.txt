@@ -3,3 +3,4 @@ pizza ortolana
 pizza diavola
 pizza calabrese
 pizza piemontese
+pizza sarda
