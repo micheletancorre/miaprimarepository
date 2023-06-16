@@ -1,10 +1,10 @@
 pizza margherita
+pizza marchigiana
 pizza ortolana
 pizza diavola
 pizza calabrese
 pizza piemontese
 pizza sarda
 pizza molisana
-pizza ligure
 pizza toscana
-pizza materana
+pizza indiana
